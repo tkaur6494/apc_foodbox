@@ -1,4 +1,6 @@
 # apc_foodbox
+
+## Introduction :
 A food box for weekly ordering which people can create their own plate.
 
  
@@ -28,3 +30,7 @@ The company (service provider)
 Will be able to check the ordering by week
 Will be able to check the current stock
 Will be able to replenish the stock
+
+## How to run:
+To run the project, you can run Foodbox.py
+
